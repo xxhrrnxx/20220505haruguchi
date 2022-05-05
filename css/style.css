@@ -1,6 +1,6 @@
 /* common */
 .container {
-  padding: 0 50px 60px 50px;
+  padding-bottom: 60px;
 }
 
 .category {
@@ -50,7 +50,6 @@ header {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: right;
-  margin-right: 20px;
   height: 450px;
   position: relative;
 }
@@ -204,7 +203,6 @@ h2 {
 .wrapper-blog {
   background-color: #f5f5f5;
   padding: 30px 200px;
-  margin: 0 50px;
 }
 
 .blog-item {
@@ -303,7 +301,7 @@ h2 {
 /* recruit */
 .wrapper-post {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 .recruit {
