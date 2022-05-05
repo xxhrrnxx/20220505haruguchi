@@ -50,6 +50,7 @@ header {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: right;
+  margin-right: 20px;
   height: 450px;
   position: relative;
 }
@@ -117,8 +118,8 @@ h2 {
 
 .about-text {
   text-align: left;
-  width: 50%;
-  padding: 0 150px 0 200px;
+  width: 100%;
+  padding: 0 100px 0 150px;
 }
 
 .about-img {
@@ -185,7 +186,7 @@ h2 {
 }
 
 .service-text {
-  padding: 30px 20px;
+  padding: 20px 20px;
   width: 60%;
 }
 
@@ -196,6 +197,7 @@ h2 {
 
 .service-text-small {
   color: #fff;
+  font-size: 12px;
 }
 
 /* blog */
